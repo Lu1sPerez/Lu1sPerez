@@ -1,7 +1,7 @@
 ## Hola, soy Luis Pérez 
 
 **Analista de Datos · Business Intelligence · Automatización de procesos**
-📍 Perito Moreno, Santa Cruz, Argentina · Disponible para trabajo remoto
+📍 Perito Moreno, Santa Cruz, Argentina · Disponible para trabajo 
 
 Pasé más de 5 años gestionando operaciones en gastronomía y consumo masivo, donde aprendí que los datos valen cuando cambian una decisión. Usé Python, SQL y Power BI para **reducir 25% la merma de inventario**, **aumentar 33% la eficiencia operativa** y **bajar 10% los costos operativos**. Hoy construyo productos con IA y automatización.
 
