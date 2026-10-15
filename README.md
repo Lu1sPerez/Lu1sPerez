@@ -1,4 +1,4 @@
-## Hola, soy Luis Pérez 👋
+## Hola, soy Luis Pérez 
 
 **Analista de Datos · Business Intelligence · Automatización de procesos**
 📍 Perito Moreno, Santa Cruz, Argentina · Disponible para trabajo remoto
